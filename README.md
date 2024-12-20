@@ -1,2 +1,2 @@
 # DanilShigapov
-4 лаба 
+14 лаба 
